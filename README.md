@@ -8,3 +8,9 @@
 ***All this text is important***
 <sub>This is a subscript text</sub>
 <sup>This is a superscript text</sup>
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
